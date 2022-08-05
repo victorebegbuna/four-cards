@@ -1,0 +1,148 @@
+body{
+    background-color: rgb(239, 248, 248);
+    margin: 0px;
+    padding: 0px;
+    place-content: center;
+    display: flex;    
+
+}
+
+.text1{
+    font-family: sans-serif;
+    font-size: 30px;
+    color: grey;
+    text-align: center;
+}
+
+.text2{
+    font-family: sans-serif;
+    font-size: 30px;
+    text-align: center;
+}
+
+.text3{
+    font-family: sans-serif;
+    font-size: 14px;
+    text-align: center;
+
+}
+
+.bui{
+    background-color: white;
+    margin-left: 360px;
+    width: 330px;
+    height: 250px;
+    border-radius: 7px;
+    border-top-style: solid;
+    border-top-color: red;
+    border-top-width: 4px;
+    box-shadow: -0px 5px  10px grey;
+
+}
+
+ .img1{
+    margin-left: 240px;
+    margin-top: 50px;
+ }
+
+.team{
+    margin-left: 20px;
+    font-family: sans-serif;
+}
+.scan{
+    margin-left: 20px;
+    color: rgb(175, 174, 174);
+    font-family: sans-serif;
+    font-size: 12px;
+}
+
+.sup{
+    background-color: white;
+    margin-top: -110px;
+    width: 330px;
+    height: 250px;
+    border-radius: 7px;
+    border-top-style: solid;
+    border-top-color: rgb(40, 231, 215);
+    border-top-width: 4px;
+    box-shadow: -0px 5px  10px grey;
+}
+.super{
+    margin-left: 20px;
+    font-family: sans-serif;
+
+}
+.monitor{
+    margin-left: 20px;
+    color: rgb(175, 174, 174);
+    font-family: sans-serif;
+    font-size: 12px;
+
+}
+
+.img2{
+    margin-left: 240px;
+    margin-top: 50px;
+
+}
+
+.cal{
+    background-color: white;
+    margin-left: 720px;
+    margin-top: -250px;
+    width: 330px;
+    height: 250px;
+    border-radius: 7px;
+    border-top-style: solid;
+    border-top-color: rgb(109, 171, 241);
+    border-top-width: 4px;
+    box-shadow: -0px 5px  10px grey;
+}
+.calc{
+    margin-left: 20px;
+    font-family: sans-serif;
+
+}
+.uses{
+    margin-left: 20px;
+    color: rgb(175, 174, 174);
+    font-family: sans-serif;
+    font-size: 12px;
+}
+
+.img3{
+    margin-left: 240px;
+    margin-top: 50px;
+
+}
+
+.kar{
+    background-color: white;
+    margin-left: 360px;
+    margin-top: -100px;
+    width: 330px;
+    height: 250px;
+    border-radius: 7px;
+    border-top-style: solid;
+    border-top-color: rgb(252, 188, 69);
+    border-top-width: 4px;
+    box-shadow: -0px 5px  10px grey;
+}
+.karm{
+    margin-left: 20px;
+    font-family: sans-serif;
+
+}
+.reg{
+    margin-left: 20px;
+    color: rgb(175, 174, 174);
+    font-family: sans-serif;
+    font-size: 12px;
+
+}
+
+.img4{
+    margin-left: 240px;
+    margin-top: 50px;
+
+}
